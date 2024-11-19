@@ -11,4 +11,6 @@
 <br>
 <h3>Para desktop</h3>
 <img src="https://github.com/Morais82/meu-primeiro-projeto/blob/master/img/imagem%20desktop.png?raw=true" alt="imagem-desqtop">
+<br>
 <h3>Para celular</h3>
+<img src="https://github.com/Morais82/meu-primeiro-projeto/blob/master/img/img-celular.png?raw=true" alt="imagem-celular">
